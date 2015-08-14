@@ -7,7 +7,7 @@
  
  You can try though. 
  
- Simply run the tei2zoteroRDF.xsl on your bibliography in TEI and you will get as output an RDF bibliography.
+ Simply run the tei2zoteroRDF.xsl on your bibliography in TEI and you will get as output an RDF bibliography which you can then import into Zotero.
  
  In the bibliography I have worked on there are only the following types, which are the ones supported:
  * Book
